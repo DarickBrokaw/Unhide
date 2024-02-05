@@ -1,0 +1,14 @@
+D:\Unhide\Unhide\bin\Debug\net8.0\Unhide.exe
+D:\Unhide\Unhide\bin\Debug\net8.0\Unhide.deps.json
+D:\Unhide\Unhide\bin\Debug\net8.0\Unhide.runtimeconfig.json
+D:\Unhide\Unhide\bin\Debug\net8.0\Unhide.dll
+D:\Unhide\Unhide\bin\Debug\net8.0\Unhide.pdb
+D:\Unhide\Unhide\obj\Debug\net8.0\Unhide.GeneratedMSBuildEditorConfig.editorconfig
+D:\Unhide\Unhide\obj\Debug\net8.0\Unhide.AssemblyInfoInputs.cache
+D:\Unhide\Unhide\obj\Debug\net8.0\Unhide.AssemblyInfo.cs
+D:\Unhide\Unhide\obj\Debug\net8.0\Unhide.csproj.CoreCompileInputs.cache
+D:\Unhide\Unhide\obj\Debug\net8.0\Unhide.dll
+D:\Unhide\Unhide\obj\Debug\net8.0\refint\Unhide.dll
+D:\Unhide\Unhide\obj\Debug\net8.0\Unhide.pdb
+D:\Unhide\Unhide\obj\Debug\net8.0\Unhide.genruntimeconfig.cache
+D:\Unhide\Unhide\obj\Debug\net8.0\ref\Unhide.dll
